@@ -15,7 +15,7 @@
 # vendor/
 
 .tmp/
-data/
+# data/
 geolite2/
 output/
 geoip
